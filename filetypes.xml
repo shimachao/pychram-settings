@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore." type="PLAIN_TEXT" />
       <mapping pattern="1560742336" type="PLAIN_TEXT" />
+      <mapping pattern="people" type="PLAIN_TEXT" />
       <mapping ext="txt " type="PLAIN_TEXT" />
       <mapping pattern="feifeidama" type="Python" />
     </extensionMap>
